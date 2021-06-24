@@ -4,4 +4,4 @@
 
 
 
-<img src="dojo3d.png" alt="">
+<img src="assets/dojo3d.png" alt="" width="200" >
